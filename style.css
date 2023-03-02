@@ -248,6 +248,7 @@ button{
         display: flex;
         flex-flow: column wrap;
         position: block;
+        gap: 20px;
     }
     .nav-container1 > .right1 {
         display: flex;
